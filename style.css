@@ -1,0 +1,46 @@
+body {
+  background-color: skyblue;
+}
+
+#section1 {
+  background-image: url(farms.jpg);
+}
+
+.my_nav_bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+#img {
+  width: 1585px;
+  height: 800px;
+}
+
+#img1,
+#img2,
+#img3,
+#img4,
+#img5,
+#img6 {
+  height: 250px;
+  width: 250px;
+  border-radius: 15%;
+}
+
+.carousel-inner {
+  margin-top: 15px;
+  margin-bottom: -50px;
+  color: black;
+  font-size: 50px;
+}
+
+h3 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 30px;
+}
+
+h2 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 50px;
+}
